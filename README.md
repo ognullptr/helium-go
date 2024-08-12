@@ -2,3 +2,5 @@
 pracujemy 
 
 elo e elo
+
+groszek nn
